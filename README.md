@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hello 👋, I'm Ahmed Arhab</h1>
+<h3 align="center">Computer Science Undergraduate</h3>
 
-<!--
-**ahmed-arhab/Ahmed-Arhab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+### 🎓 Education
+- **BSc in Computer Science** - University of Westminster (Undergraduate)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Collaboration Interests
+- Artificial Intelligence and Machine Learning projects
+- DevOps & Cloud Computing
+- Open source contributions
+
+### 🌐 Technical Skills & Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,typescript,react,angular,git" />
+  </a>
+</p>
+
+### 🛠️ Technical Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma" />
+  </a>
+</p>
+
+
+<h3 align="center">🔗 Connect with me via</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-arhab-07424531a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nowfarahmedarhab@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
