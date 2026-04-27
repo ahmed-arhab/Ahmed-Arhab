@@ -1,67 +1,70 @@
 <h1 align="center">Hello 👋, I'm Ahmed Arhab</h1>
+<h2 align="center">Full-Stack Devevloper & AI/ML Engineer</h2>
 <h3 align="center">Computer Science Undergraduate</h3>
 
 <br/>
 
-### 🎓 Education
-- **BSc in Computer Science** - University of Westminster (Undergraduate)
+<h3 align="center">🎓 Education</h3>
+<p align="center"><b>BSc in Computer Science</b> - University of Westminster</p>
+</br>
 
-### 💻 Collaboration Interests
-- Artificial Intelligence and Machine Learning projects
-- DevOps & Cloud Computing
-- Open source contributions
+<h3 align="center">💻 Collaboration Interests</h3>
+<p align="center">- Artificial Intelligence and Machine Learning projects</p>
+<p align="center">- DevOps & Cloud Computing</p>
+<p align="center">- Open source contributions</p>
 
-### Technical Skills & Languages
-<p align="left">
+</br>
+<h3 align="center">⚙️ Technical Skills & Languages</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
   </a>
 </p>
 
-### Front-end
-<p align="left">
+<h3 align="center">🏞️ Front-end</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,react,tailwindcss,figma" />
   </a>
 </p>
 
-### Back-end
-<p align="left">
+<h3 align="center">🧬 Back-end</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
 </p>
 
-### Database
-<p align="left">
+<h3 align="center">🗄️ Database</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   </a>
 </p>
 
-### Mobile App Development
-<p align="left">
+<h3 align="center">📱 Mobile App Development</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,tensorflow" />
   </a>
 </p>
 
-### Version Control
-<p align="left">
+<h3 align="center">🕹️ Version Control</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github" />
   </a>
 </p>
 
-### 🛠️ Technical Tools
-<p align="left">
+<h3 align="center">🛠️ Technical Tools</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,discord,devto" />
   </a>
 </p>
 
-### OS
-<p align="left">
+<h3 align="center">OS</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=apple,windows" />
   </a>
