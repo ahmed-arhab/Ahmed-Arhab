@@ -38,14 +38,14 @@
 <h3 align="center">🗄️ Database</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
   </a>
 </p>
 
 <h3 align="center">📱 Mobile App Development</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=reactnative,flutter,dart,kotlin,tensorflow" />
   </a>
 </p>
 
