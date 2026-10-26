@@ -31,7 +31,7 @@
 <h3 align="center">🧬 Back-end</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs, spring" />
+    <img src="https://skillicons.dev/icons?i=nodejs,spring" />
   </a>
 </p>
 
