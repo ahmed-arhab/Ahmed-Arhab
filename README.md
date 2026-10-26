@@ -24,21 +24,21 @@
 <h3 align="center">🏞️ Front-end</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,tailwindcss,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,tailwindcss,figma,nextjs" />
   </a>
 </p>
 
 <h3 align="center">🧬 Back-end</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
+    <img src="https://skillicons.dev/icons?i=nodejs, spring" />
   </a>
 </p>
 
 <h3 align="center">🗄️ Database</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase, supabase" />
   </a>
 </p>
 
