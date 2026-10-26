@@ -38,7 +38,7 @@
 <h3 align="center">🗄️ Database</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase, supabase" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" />
   </a>
 </p>
 
