@@ -45,7 +45,7 @@
 <h3 align="center">📱 Mobile App Development</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=reactnative,flutter,dart,kotlin,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=react,flutter,dart,kotlin,tensorflow" />
   </a>
 </p>
 
